@@ -10,7 +10,7 @@ The core analysis is contained in the Jupyter Notebook: [`walmart_sales_predicti
 
 This plot illustrates the model's fit on historical sales (black dots) and the extended forecast (blue line) for future weeks.
 
-![Walmart Sales Forecast Plot](walmart_sales_forecast_plot.png)
+![Walmart Sales Forecast Plot](image/Screenshot%202025-10-23%20082805.png)
 
 ---
 
