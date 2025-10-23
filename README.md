@@ -30,7 +30,7 @@ The model utilizes the **Prophet** library (developed by Meta, formerly Facebook
 
 The project is built using Python and relies on the following major libraries. These packages are listed in the `requirements.txt` file.
 
-* **Python **
+* **Python**
 * **Prophet** (Primary Forecasting Engine)
 * **Pandas & NumPy** (Data Manipulation)
 * **Matplotlib & Seaborn** (Data Visualization)
