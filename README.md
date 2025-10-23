@@ -36,11 +36,4 @@ The project is built using Python and relies on the following major libraries. T
 * **Matplotlib & Seaborn** (Data Visualization)
 * **Scikit-learn** (Performance Metrics)
 
-### Installation
 
-To run this notebook locally, first clone the repository and install the dependencies:
-
-```bash
-git clone <Your-Repository-URL>
-cd <Your-Repository-Name>
-pip install -r requirements.txt
